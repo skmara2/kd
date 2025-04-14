@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color:#d0ecd0;
+  font-size:18px;
+  margin:10px;
+}
+h2{
+  color:#032103;
+  text-shadow:1px 1px limegreen;
+  text-align:center;
+}
+.blakus{
+  display:flex;
+}
+input{
+  width:50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size:18px;
+}
+button{
+  margin-left: 10px;
+  margin-right: 10px;
+  width:70px;
+  font-size:16px;
+}
+output{
+  padding-left: 15px;
+  font-size:20px;
+  font-weight:bold;
+  color:#0b320b;
+  
+  width:50px;
+}
+h5{
+word-spacing: 20px;
+  padding-left:30px;
+}
